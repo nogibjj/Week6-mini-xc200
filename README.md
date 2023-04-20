@@ -1,5 +1,8 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Sorting a Sequence of Integers in Rust
+
+This is a simple Rust program that reads a sequence of integers from standard input, sorts them, and prints the sorted sequence to standard output.
+
+
 
 ## References
 
